@@ -1,7 +1,7 @@
 # Blood-donation-website
 This is  a blood donation website made in HTML, CSS and JavaScript. I made this for my Web Development project. It is not a fully functioning website. It is just to show the frontend part of my website.
 
-You can view the website by clicking on the following link: https://andyyad.github.io/Blood-donation-website/
+You can view the website by clicking on the following link: https://one-blood.vercel.app/
 
 Quick peek: 
 
